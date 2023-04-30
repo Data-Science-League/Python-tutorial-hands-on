@@ -1,5 +1,8 @@
 # Python-tutorial-hands-on
-Data Science League TUS 主催「Python 基礎 &amp; 機械学習」5/5~15
+### Data Science League TUS 主催「Python 基礎 &amp; 機械学習」5/5~15
+
+<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/Python基礎.png" width="400" />
+
 
 当勉強会はPython・機械学習を
 **「知らないものではなく、使える武器にする。」**
@@ -22,5 +25,3 @@ Data Science League TUS 主催「Python 基礎 &amp; 機械学習」5/5~15
 使用する教材：どちらも無料
 - Python基礎 -> いまにゅのノックシリーズ ※スクレイピングと機械学習は除く
 - 機械学習　 -> DATA SCIENCE LIFE (米国データサイエンティストかめ)様
-
-<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/Python基礎.png" width="400" />
