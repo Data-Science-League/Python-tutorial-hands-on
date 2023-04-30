@@ -23,5 +23,4 @@ Data Science League TUS 主催「Python 基礎 &amp; 機械学習」5/5~15
 - Python基礎 -> いまにゅのノックシリーズ ※スクレイピングと機械学習は除く
 - 機械学習　 -> DATA SCIENCE LIFE (米国データサイエンティストかめ)様
 
-![Poster image](/Python基礎.png | width=100)
-<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/Python基礎.png" width="200" />
+<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/Python基礎.png" width="400" />
