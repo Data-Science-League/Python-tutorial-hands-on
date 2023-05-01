@@ -2,7 +2,7 @@
 ## Pythonハンズオンチュートリアル
 ### Data Science League TUS 主催「Python 基礎 &amp; 機械学習」5/5~15
 
-<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/Python基礎.png" width="400" />
+<img src="https://github.com/Data-Science-League/Python-tutorial-hands-on/blob/main/image/Python基礎.png" width="400" />
 
 
 当勉強会はPython・機械学習を
