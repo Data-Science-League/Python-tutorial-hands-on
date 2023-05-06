@@ -1,0 +1,11 @@
+
+
+{"store_name": "渋谷店",
+"items":[
+    {"item_id":0,
+    "item_name":"ハンバーガー"},
+    {"item_id":1,
+    "item_name":"チーズバーガー"},
+    {"item_id":2,
+    "item_name":"テリヤキバーガー"}]
+}
